@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "John Bostanci"
+theme = "cactus"
+
+[params]
+colortheme = "white" 
+description = "PhD Student at Columbia University"
