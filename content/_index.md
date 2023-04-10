@@ -3,7 +3,7 @@ title: "Hi, I'm John Bostanci"
 date: 2022-08-15T00:47:33-04:00
 draft: false
 ---
-I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Columbia advised by Henry Yuen.  I'm interested quantum computing, especially complexity, cryptography and learning theory.  Some specific problems that I think about are QMA versus QMA1, Shadow Tomography, the Complexity of Unitary Synthesis problems, among other problems in Quantum Complexity and Cryptography. 
+I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Columbia advised by [Henry Yuen](https://henryyuen.net/).  I'm interested quantum computing, especially complexity, cryptography and learning theory.  Some specific problems that I think about are QMA versus QMA1, Shadow Tomography, the Complexity of Unitary Synthesis problems, among other problems in Quantum Complexity and Cryptography. 
 
 Email: johnb at cs dot columbia dot edu
 
