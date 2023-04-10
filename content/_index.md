@@ -3,12 +3,7 @@ title: "Hi, I'm John Bostanci"
 date: 2022-08-15T00:47:33-04:00
 draft: false
 ---
-
-I'm interested quantum computing, especially algorithms and complexity.  Some problems I think about are QCMA vs. QMA, the sample complexity of Shadow Tomography, and things related to QPCP. 
-
-I also work for a novel derivatives exchange called [Kalshi](https://kalshi.com/), where I helped design and build the exchange.  I currently work in improving the architecture of the exchange, and interfacing with external funds and market makers to design new features, including a FIX API, exchange protections, and performance improvements.  
-
-In a past life I worked for Citadel on the Alpha Research and Development team.  Some of my projects include X-Alpha (a graph based resource manager for creating terms), and Leonov (a neural architecture that performed better than human modelers on near term alpha).  
+I'm interested quantum computing, especially algorithms and complexity.  Some specific problems that I think about are QMA versus QMA1, Shadow Tomography, the Complexity of Unitary Synthesis problems, and other problems in Quantum Complexity and Cryptography. 
 
 # Publications
 1. __John Bostanci__ and John Watrous. [Quantum game theory and the complexity of approximating quantum Nash equilibria](https://arxiv.org/abs/2102.00512). Quantum, 2022.
@@ -17,3 +12,10 @@ In a past life I worked for Citadel on the Alpha Research and Development team. 
 
 # Teaching
 In Fall 2022 I was a TA for __Introduction to Quantum Computing__ at Columbia, taught by Henry Yuen.
+
+# Work Experience
+I used to work for a start-up derivatives exchange called [Kalshi](https://kalshi.com/), where I helped design and build the exchange, as well as designed and built most of the connections with external parties including Bloomberg, brokers, and market makers.   
+
+I also used to work for Citadel on the Alpha Research and Development team.  Some of my projects include X-Alpha (a graph based resource manager for creating terms), and Leonov (a neural architecture that performed better than human modelers on near term alpha).  
+
+
