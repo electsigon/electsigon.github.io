@@ -13,7 +13,7 @@ In a past life I worked for Citadel on the Alpha Research and Development team. 
 # Publications
 1. __John Bostanci__ and John Watrous. [Quantum game theory and the complexity of approximating quantum Nash equilibria](https://arxiv.org/abs/2102.00512). Quantum, 2022.
 2. __John Bostanci__ and Alex Kubica. [Finding the disjointness of stabilizer codes is NP-complete](https://arxiv.org/abs/2108.04738). Physics Review Research, 2022.
-3. Adam Bene Watts and __John Bostanci__. [Quantum Event Learning and Gentle Random Measurements](deadlink).  In Preparation, 2022.
+3. Adam Bene Watts and __John Bostanci__. [Quantum Event Learning and Gentle Random Measurements](https://arxiv.org/abs/2210.09155).  In Preparation, 2022.
 
 # Teaching
-I'm currently helping teach __Introduction to Quantum Computing__ at Columbia, along with Henry Yuen and Yulong Li.
+In Fall 2022 I was a TA for __Introduction to Quantum Computing__ at Columbia, taught by Henry Yuen.
