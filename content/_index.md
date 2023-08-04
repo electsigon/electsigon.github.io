@@ -16,7 +16,7 @@ Email: johnb at cs dot columbia dot edu
 # Teaching
 In Fall 2022 I was a TA for __Introduction to Quantum Computing__ at Columbia, taught by Henry Yuen.
 
-In Summer 2023 I was a TA for Topological Aspects of Error Correcting Codes at the Park City Mathematics Institute Graduate Summer School, taught by Jeongwan Haah. 
+In Summer 2023 I was a TA for __Topological Aspects of Error Correcting Codes__ at the Park City Mathematics Institute Graduate Summer School, taught by Jeongwan Haah. 
 
 # Work Experience
 I used to work for a start-up derivatives exchange called [Kalshi](https://kalshi.com/), where I helped design and build the exchange, as well as designed and built most of the connections with external parties including Bloomberg, brokers, and market makers.   
