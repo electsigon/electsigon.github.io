@@ -6,11 +6,3 @@ theme = "cactus"
 [params]
 colortheme = "white" 
 description = "PhD Student at Columbia University"
-
-[[params.social]]
-name = "linkedin"
-link = "linkedin.com/in/john-bostanci-5a173aa2"
-
-[[params.social]]
-name = "twitter"
-link = "https://twitter.com/JohnBostanci"
