@@ -10,11 +10,11 @@ Before Columbia, I was a graduate student at the Institute for Quantum Computing
 Email: johnb at cs dot columbia dot edu
 
 # Papers
-1. __John Bostanci__, [Luowen Qian](https://cs-people.bu.edu/luowenq/), [Nicholas Spooner](https://spooner.cc), [Henry Yuen](https://henryyuen.net).  [An efficient quantum parallel repetition theorem and applications](https://arxiv.org/abs/2311.10681). Preprint. __QIP 2024 Short Plenary Talk__.
-2. __John Bostanci__, [Yuval Efron](https://zxrtde.github.io/), [Tony Metger](https://scholar.google.com/citations?user=sgcI--IAAAAJ&hl=en), [Alexander Poremba](http://www.its.caltech.edu/~aporemba/), [Luowen Qian](https://cs-people.bu.edu/luowenq/), [Henry Yuen](https://henryyuen.net). [Unitary Complexity and the Uhlmann Transformation Problem](https://arxiv.org/abs/2306.13073). Preprint. __QIP 2024 Long Plenary Talk__.
-3. [Adam Bene Watts](https://www.adambenewatts.ca/) and __John Bostanci__. [Quantum Event Learning and Gentle Random Measurements](https://arxiv.org/abs/2210.09155).  ITCS 2024.
-4. __John Bostanci__ and [Alex Kubica](https://scholar.google.com/citations?user=D8VDo7YAAAAJ&hl=en). [Finding the disjointness of stabilizer codes is NP-complete](https://arxiv.org/abs/2108.04738). Physical Review Research 3, 2021.
-5. __John Bostanci__ and [John Watrous](https://johnwatrous.com/). [Quantum game theory and the complexity of approximating quantum Nash equilibria](https://arxiv.org/abs/2102.00512). Quantum 6, 2022.
+1. [An efficient quantum parallel repetition theorem and applications](https://arxiv.org/abs/2311.10681). John Bostanci, [Luowen Qian](https://cs-people.bu.edu/luowenq/), [Nicholas Spooner](https://spooner.cc), [Henry Yuen](https://henryyuen.net). Preprint. __QIP 2024 Short Plenary Talk__.
+2. [Unitary Complexity and the Uhlmann Transformation Problem](https://arxiv.org/abs/2306.13073). John Bostanci, [Yuval Efron](https://zxrtde.github.io/), [Tony Metger](https://scholar.google.com/citations?user=sgcI--IAAAAJ&hl=en), [Alexander Poremba](http://www.its.caltech.edu/~aporemba/), [Luowen Qian](https://cs-people.bu.edu/luowenq/), [Henry Yuen](https://henryyuen.net). Preprint. __QIP 2024 Long Plenary Talk__.
+3. [Quantum Event Learning and Gentle Random Measurements](https://arxiv.org/abs/2210.09155). [Adam Bene Watts](https://www.adambenewatts.ca/) and John Bostanci. ITCS 2024.
+4. [Finding the disjointness of stabilizer codes is NP-complete](https://arxiv.org/abs/2108.04738). John Bostanci and [Alex Kubica](https://scholar.google.com/citations?user=D8VDo7YAAAAJ&hl=en). Physical Review Research 3, 2021.
+5. [Quantum game theory and the complexity of approximating quantum Nash equilibria](https://arxiv.org/abs/2102.00512). John Bostanci and [John Watrous](https://johnwatrous.com/). Quantum 6, 2022.
 
 # Teaching
 In Fall 2022 I was a TA for __Introduction to Quantum Computing__ at Columbia, taught by Henry Yuen.
