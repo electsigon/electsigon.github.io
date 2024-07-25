@@ -7,6 +7,8 @@ I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Col
 
 Before Columbia, I was a graduate student at the Institute for Quantum Computing at the University of Waterloo, advised by [John Watrous](https://johnwatrous.com/).
 
+This summer I am interning at [NTT Research](https://ntt-research.com/cis/).
+
 Email: johnb at cs dot columbia dot edu
 
 # Papers
