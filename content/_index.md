@@ -7,8 +7,6 @@ I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Col
 
 Before Columbia, I was a graduate student at the Institute for Quantum Computing at the University of Waterloo, advised by [John Watrous](https://johnwatrous.com/).
 
-This summer I am interning at [NTT Research](https://ntt-research.com/cis/).
-
 Email: johnb at cs dot columbia dot edu
 
 # Papers
@@ -24,6 +22,8 @@ In Fall 2022 I was a TA for __Introduction to Quantum Computing__ at Columbia, t
 In Summer 2023 I was a TA for __Topological Aspects of Error Correcting Codes__ at the Park City Mathematics Institute Graduate Summer School, taught by Jeongwan Haah.  Click [here](pcmi) to see the problem sets and solutions.
 
 # Work Experience
+In the summer of 2024, I was an intern at [NTT Research](https://ntt-research.com/cis/) working with [Mark Zhandry](https://mzhandry.github.io/).
+
 I used to work for a start-up derivatives exchange called [Kalshi](https://kalshi.com/), where I helped design and build the exchange, as well as designed and built most of the connections with external parties including Bloomberg, brokers, and market makers.   
 
 I also used to work for Citadel on the Alpha Research and Development team.  Some of my projects include X-Alpha (a graph based resource manager for creating terms), and Leonov (a neural architecture that performed better than human modelers on near term alpha).  
