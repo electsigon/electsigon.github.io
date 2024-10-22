@@ -6,9 +6,12 @@
         <span class="subtitle">{{.}}</span>
         {{ end }}
       </header>
-      <div class="homepage-content">
-        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-        {{.Content}}
+      <div class="content-wrapper">
+        <img src="{{ "images/logo.jpg" | absURL }}" class="content-image" alt="Profile photo">
+        <div class="homepage-content">
+          {{.Content}}
+        </div>
+        <div style="clear: both;"></div>  <!-- Add this clearing div -->
       </div>
     </main>
 {{ end }}

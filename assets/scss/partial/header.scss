@@ -1,5 +1,5 @@
 #header {
-  margin: 0 auto 2rem;
+  margin: 0 auto 0rem;
   width: 100%;
 
   h1,
@@ -23,7 +23,7 @@
   #logo {
     display: inline-block;
     float: left;
-    margin-top: 60px;
+    margin-top: 20px;
     margin-right: 20px;
     width: $logo-width;
     height: $logo-height;
@@ -34,6 +34,15 @@
       filter: grayscale(100%);
       -webkit-filter: grayscale(100%);
     }
+  }
+  #title {
+    overflow: hidden;    /* ensures proper wrapping */
+  }
+  /* Clear the float if needed */
+  #header::after {
+    content: "";
+    display: table;
+    clear: both;
   }
   #nav {
     color: $color-accent-1;
