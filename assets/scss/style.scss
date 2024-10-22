@@ -244,6 +244,16 @@ code {
     border-radius: 20px;
 }
 
+@media screen and (max-width: 768px) {  /* adjust this breakpoint as needed */
+    .content-image {
+        float: none;         /* removes the float */
+        display: block;      /* makes image take full width */
+        margin: 0 auto 20px auto;  /* centers the image and adds bottom margin */
+        max-width: 100%;     /* makes image responsive */
+        shape-outside: none; /* removes the shape-outside property */
+    }
+}
+
 .homepage-content {
 }
 
