@@ -3,7 +3,7 @@ title: ""
 date: 2022-08-15T00:47:33-04:00
 draft: false
 ---
-I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Columbia advised by [Henry Yuen](https://henryyuen.net/), and before that I was a graduate student at the Institute for Quantum Computing at the University of Waterloo, advised by [John Watrous](https://johnwatrous.com/).  I study theoretical computer science, with a focus on quantum computation.  
+I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Columbia advised by [Henry Yuen](https://henryyuen.net/), and before that I was a graduate student at the Institute for Quantum Computing at the University of Waterloo, advised by [John Watrous](https://johnwatrous.com/).  I study theoretical computer science, with a focus on quantum computation.
 
 My research is broadly about understanding fully-quantum tasks, including quantum cryptography, unitary complexity theory, and algorithms for learning from quantum data. Some specific problems that I think about are algorithms for shadow tomography, the complexity of unitarys synthesis problems, and various topics in quantum cryptography like quantum money and pseudo-randomness. I am generally happy to talk about anything related to computer science, so if you have a question or idea please feel free to reach out to me!
 
@@ -11,9 +11,11 @@ Email: johnb at cs dot columbia dot edu
 
 # Papers
 
-* Commuting Local Hamiltonians Beyond 2D. John Bostanci and [Yeongwoo Hwang](https://hwangy.github.io). Preprint. \[[pdf](/pdfs/papers/commuting_hamiltonians_beyond_2d.pdf)\]
+* Pseudorandomness in the (Inverseless) Haar Random Oracle Model.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home). Preprint \[[pdf](/pdfs/papers/pseudorandomness_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2410.19320)\]
 
-* Efficient Quantum Pseudorandomness from Hamiltonian Phase States. John Bostanci, Jonas Haferkamp, [Dominik Hangleiter](https://dhangleiter.github.io), and [Alexander Poremba](https://www.mit.edu/~poremba). Preprint. \[[pdf](/pdfs/papers/efficient_quantum_pseudorandomness.pdf), [arXiv](https://arxiv.org/abs/2410.08073), [eprint](https://eprint.iacr.org/2024/1639)\]
+* Commuting Local Hamiltonians Beyond 2D. John Bostanci and [Yeongwoo Hwang](https://hwangy.github.io). Preprint. \[[pdf](/pdfs/papers/commuting_hamiltonians_beyond_2d.pdf), [arXiv](https://arxix.org/abs/2410.10495)\]
+
+* Efficient Quantum Pseudorandomness from Hamiltonian Phase States. John Bostanci, [Jonas Haferkamp](https://seas.harvard.edu/person/jonas-haferkamp), [Dominik Hangleiter](https://dhangleiter.github.io), and [Alexander Poremba](https://www.mit.edu/~poremba). Preprint. \[[pdf](/pdfs/papers/efficient_quantum_pseudorandomness.pdf), [arXiv](https://arxiv.org/abs/2410.08073), [eprint](https://eprint.iacr.org/2024/1639)\]
 
 * Oracle Separation Between Quantum Commitments and Quantum One-wayness. John Bostanci, Boyang Chen, [Barak Nehoran](https://www.cs.princeton.edu/~bnehoran/).  Preprint. \[[pdf](/pdfs/papers/oracle_separation_between_owsg_and_efi.pdf), [arXiv](https://arxiv.org/abs/2410.03358), [eprint](https://eprint.iacr.org/2024/1568)\] 
 
