@@ -5,7 +5,7 @@ draft: false
 ---
 I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Columbia advised by [Henry Yuen](https://henryyuen.net/), and before that I was a graduate student at the Institute for Quantum Computing at the University of Waterloo, advised by [John Watrous](https://johnwatrous.com/).  I study theoretical computer science, with a focus on quantum computation.
 
-My research is broadly about understanding fully-quantum tasks, including quantum cryptography, unitary complexity theory, and algorithms for learning from quantum data. Some specific problems that I think about are algorithms for shadow tomography, the complexity of unitarys synthesis problems, and various topics in quantum cryptography like quantum money and pseudo-randomness. I am generally happy to talk about anything related to computer science, so if you have a question or idea please feel free to reach out to me!
+My research is broadly about understanding fully-quantum tasks, including quantum cryptography, unitary complexity theory, and algorithms for learning from quantum data. Some specific problems that I think about are algorithms for shadow tomography, the complexity of unitary synthesis problems, and various topics in quantum cryptography like quantum money and pseudo-randomness. I am generally happy to talk about anything related to computer science, so if you have a question or idea please feel free to reach out to me!
 
 Email: johnb at cs dot columbia dot edu
 
