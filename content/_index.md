@@ -13,7 +13,7 @@ Email: johnb at cs dot columbia dot edu
 
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/). Preprint \[[pdf](/pdfs/papers/learning_closest_product_state.pdf), [arXiv](https://arxiv.org/abs/2411.04283)\]
 
-* A Generality Duality for Representations of Groups with Applications to Quantum Money, Lightning, and Fire. John Bostanci, [Barak Nehoran](https://www.cs.princeton.edu/~bnehoran/), and [Mark Zhandry](https://mzhandry.github.io). Preprint. \[[pdf](/pdfs/papers/duality_quantum_money.pdf), [arXiv](https://arxiv.org/abs/2411.00529), [eprint](https://eprint.iacr.org/2024/1785)\]
+* A General Duality for Representations of Groups with Applications to Quantum Money, Lightning, and Fire. John Bostanci, [Barak Nehoran](https://www.cs.princeton.edu/~bnehoran/), and [Mark Zhandry](https://mzhandry.github.io). Preprint. \[[pdf](/pdfs/papers/duality_quantum_money.pdf), [arXiv](https://arxiv.org/abs/2411.00529), [eprint](https://eprint.iacr.org/2024/1785)\]
 
 * Pseudorandomness in the (Inverseless) Haar Random Oracle Model.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home). Preprint. \[[pdf](/pdfs/papers/pseudorandomness_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2410.19320), [eprint]()\]
 
