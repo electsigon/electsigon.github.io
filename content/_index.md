@@ -11,7 +11,7 @@ Email: johnb at cs dot columbia dot edu
 
 # Papers
 
-* Separating QMA from QCMA with a Classical Oracle. John Bostanci, [Jonas Haferkamp](https://seas.harvard.edu/person/jonas-haferkamp), [Mark Zhandry](https://mzhandry.github.io). Preprint. \[[pdf](/pdfs/papers/separating_qma_from_qcma_with_a_classical_oracle.pdf), [arXiv]()\]
+* Separating QMA from QCMA with a Classical Oracle. John Bostanci, [Jonas Haferkamp](https://seas.harvard.edu/person/jonas-haferkamp), [Mark Zhandry](https://mzhandry.github.io). Preprint. \[[pdf](/pdfs/papers/separating_qma_from_qcma_with_a_classical_oracle.pdf)\]
 
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/). Preprint. QIP 2025 __Short Plenary Talk__. \[[pdf](/pdfs/papers/learning_closest_product_state.pdf), [arXiv](https://arxiv.org/abs/2411.04283)\]
 
