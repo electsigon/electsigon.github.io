@@ -13,7 +13,7 @@ Email: johnb at cs dot columbia dot edu
 
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/).   
 To appear at STOC 2025, QIP 2025 __Short Plenary Talk__.   
-\[[pdf](/pdfs/papers/learning_closest_product_state.pdf), [arXiv](https://arxiv.org/abs/2411.04283)\]
+\[[pdf](/pdfs/papers/learning_closest_product_state.pdf), [arXiv](https://arxiv.org/abs/2411.04283), [slides](/pdfs/talks/Learning_Closest_Product_States_QIP2025.pdf)\]
 
 * A General Duality for Representations of Groups with Applications to Quantum Money, Lightning, and Fire. John Bostanci, [Barak Nehoran](https://www.cs.princeton.edu/~bnehoran/), and [Mark Zhandry](https://mzhandry.github.io).   
 To appear at STOC 2025, QIP 2025 Contributed Talk.  
@@ -64,3 +64,7 @@ In the summer of 2024, I was an intern at [NTT Research](https://ntt-research.co
 I used to work for a start-up derivatives exchange called [Kalshi](https://kalshi.com/), where I helped design and build the exchange, as well as designed and built most of the connections with external parties including Bloomberg, brokers, and market makers.   
 
 I also used to work for Citadel on the Alpha Research and Development team.  Some of my projects include X-Alpha (a graph based resource manager for creating terms), and Leonov (a neural architecture that performed better than human modelers on near term alpha).  
+
+# Miscellaneous
+
+Here are the slides I used for my [candidacy exam](/pdfs/candidacy/Candidacy_Presentation.pdf) at Columbia.
