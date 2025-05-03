@@ -12,11 +12,11 @@ Email: johnb at cs dot columbia dot edu
 # Papers
 
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/). 
-To appear at STOC 2025, QIP 2025 __Short Plenary Talk__. 
+To appear at STOC 2025, QIP 2025 __short plenary talk__. 
 \[[pdf](/pdfs/papers/learning_closest_product_state.pdf), [arXiv](https://arxiv.org/abs/2411.04283), [slides](/pdfs/talks/Learning_Closest_Product_States_QIP2025.pdf)\]
 
 * A General Duality for Representations of Groups with Applications to Quantum Money, Lightning, and Fire. John Bostanci, [Barak Nehoran](https://www.cs.princeton.edu/~bnehoran/), and [Mark Zhandry](https://mzhandry.github.io). 
-To appear at STOC 2025, QIP 2025 Contributed Talk. 
+To appear at STOC 2025, QIP 2025 contributed talk, QCrypt 2025 __invited plenary talk__. 
 \[[pdf](/pdfs/papers/duality_quantum_money.pdf), [arXiv](https://arxiv.org/abs/2411.00529), [eprint](https://eprint.iacr.org/2024/1785)\]
 
 * Pseudorandomness in the (Inverseless) Haar Random Oracle Model.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home). 
@@ -24,9 +24,11 @@ To appear at Eurocrypt 2025.
 \[[pdf](/pdfs/papers/pseudorandomness_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2410.19320), [eprint]()\]
 
 * Commuting Local Hamiltonians Beyond 2D. John Bostanci and [Yeongwoo Hwang](https://hwangy.github.io). 
+TQC 2025 contributed talk.
 \[[pdf](/pdfs/papers/commuting_hamiltonians_beyond_2d.pdf), [arXiv](https://arxiv.org/abs/2410.10495), [eccc](https://eccc.weizmann.ac.il/report/2024/166)\]
 
 * Efficient Quantum Pseudorandomness from Hamiltonian Phase States. John Bostanci, [Jonas Haferkamp](https://seas.harvard.edu/person/jonas-haferkamp), [Dominik Hangleiter](https://dhangleiter.github.io), and [Alexander Poremba](https://www.mit.edu/~poremba). 
+TQC 2025 contributed talk.
 \[[pdf](/pdfs/papers/efficient_quantum_pseudorandomness.pdf), [arXiv](https://arxiv.org/abs/2410.08073), [eprint](https://eprint.iacr.org/2024/1639)\]
 
 * Oracle Separation Between Quantum Commitments and Quantum One-wayness. John Bostanci, Boyang Chen, [Barak Nehoran](https://www.cs.princeton.edu/~bnehoran/). 
@@ -34,11 +36,11 @@ To appear at Eurocrypt 2025.
 \[[pdf](/pdfs/papers/oracle_separation_between_owsg_and_efi.pdf), [arXiv](https://arxiv.org/abs/2410.03358), [eprint](https://eprint.iacr.org/2024/1568)\] 
 
 * An efficient quantum parallel repetition theorem and applications. John Bostanci, [Luowen Qian](https://qcry.pt), [Nicholas Spooner](https://spooner.cc), [Henry Yuen](https://henryyuen.net). 
-STOC 2024, QIP 2024 __Short Plenary Talk__. 
+STOC 2024, QIP 2024 __short plenary talk__. 
 \[[pdf](/pdfs/papers/efficient_quantum_parallel_repetition.pdf), [arXiv](https://arxiv.org/abs/2311.10681), [eprint](https://eprint.iacr.org/2023/1783), [eccc](https://eccc.weizmann.ac.il/report/2023/204), [slides](/pdfs/talks/Efficient_Parallel_Repetition_QIP2024.pdf)\]
 
 * Unitary Complexity and the Uhlmann Transformation Problem. John Bostanci, [Yuval Efron](https://zxrtde.github.io/), [Tony Metger](https://tonymetger.com), [Alexander Poremba](https://www.mit.edu/~poremba/), [Luowen Qian](https://qcry.pt), [Henry Yuen](https://henryyuen.net). 
-QIP 2024 __Long Plenary Talk__. 
+QIP 2024 __long plenary talk__. 
 \[[pdf](/pdfs/papers/uhlmann_transformation_problem.pdf), [arXiv](https://arxiv.org/abs/2306.13073)\]
 
 * Quantum Event Learning and Gentle Random Measurements. [Adam Bene Watts](https://scholar.google.com/citations?user=nXVtEQ0AAAAJ&hl=en) and John Bostanci. 
