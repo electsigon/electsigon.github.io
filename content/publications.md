@@ -8,7 +8,7 @@ draft: false
 
 ## 2026
 
-* A rigidity theorem for Uhlmann transformations and applications.  John Bostanci, [Tony Metger](https://tonymetger.com), and [Henry Yuen](https://henryyuen.net).  
+* Local transformations of bipartite entanglement are rigid.  John Bostanci, [Tony Metger](https://tonymetger.com), and [Henry Yuen](https://henryyuen.net).  
 \[[pdf](/pdfs/papers/robust_uhlmann_rigidity.pdf), [arXiv](https://arxiv.org/abs/2509.05257)\]
 
 ## 2025
