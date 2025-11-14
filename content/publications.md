@@ -15,8 +15,12 @@ draft: false
 ITCS 2026, QIP 2026.  
 \[[pdf](/pdfs/papers/robust_uhlmann_rigidity.pdf), [arXiv](https://arxiv.org/abs/2509.05257)\]
 
+* Gluing Random Unitaries with Inverses and Applications to Strong Pseudorandom Unitaries.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home).  
+CRYPTO 2025 (merged), QIP 2026.  
+\[[pdf](/pdfs/papers/gluing_random_unitaries_with_inverses.pdf), [arXiv](https://arxiv.org/abs/2510.04085)\]
+
 * Pseudorandom Unitaries in the Haar Random Oracle Model.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home).  
-CRYPTO 2025, QIP 2026.  
+CRYPTO 2025 (merged).  
 \[[pdf](/pdfs/papers/pseudorandom_unitaries_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2509.24432)\]
 
 ## 2025
