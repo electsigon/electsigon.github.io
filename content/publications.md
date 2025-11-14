@@ -19,11 +19,11 @@ ITCS 2026, QIP 2026.
 CRYPTO 2025 (merged), QIP 2026.  
 \[[pdf](/pdfs/papers/gluing_random_unitaries_with_inverses.pdf), [arXiv](https://arxiv.org/abs/2510.04085)\]
 
+## 2025
+
 * Pseudorandom Unitaries in the Haar Random Oracle Model.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home).  
 CRYPTO 2025 (merged).  
 \[[pdf](/pdfs/papers/pseudorandom_unitaries_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2509.24432)\]
-
-## 2025
 
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/).   
 STOC 2025, QIP 2025 __short plenary talk__.  
@@ -38,7 +38,7 @@ Eurocrypt 2025.
 \[[pdf](/pdfs/papers/pseudorandomness_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2410.19320), [eprint]()\]
 
 * Commuting Local Hamiltonians Beyond 2D. John Bostanci and [Yeongwoo Hwang](https://hwangy.github.io).  
-TQC 2025 contributed talk.  
+ITCS 2026, TQC 2025 contributed talk.  
 \[[pdf](/pdfs/papers/commuting_hamiltonians_beyond_2d.pdf), [arXiv](https://arxiv.org/abs/2410.10495), [eccc](https://eccc.weizmann.ac.il/report/2024/166)\]
 
 * Efficient Quantum Pseudorandomness from Hamiltonian Phase States. John Bostanci, [Jonas Haferkamp](https://scholar.google.com/citations?user=15q0Uq8AAAAJ&hl=de), [Dominik Hangleiter](https://dhangleiter.github.io), and [Alexander Poremba](https://www.mit.edu/~poremba).  
@@ -56,7 +56,7 @@ STOC 2024, QIP 2024 __short plenary talk__.
 \[[pdf](/pdfs/papers/efficient_quantum_parallel_repetition.pdf), [arXiv](https://arxiv.org/abs/2311.10681), [eprint](https://eprint.iacr.org/2023/1783), [eccc](https://eccc.weizmann.ac.il/report/2023/204), [slides](/pdfs/talks/Efficient_Parallel_Repetition_QIP2024.pdf)\]
 
 * Unitary Complexity and the Uhlmann Transformation Problem. John Bostanci, [Yuval Efron](https://zxrtde.github.io/), [Tony Metger](https://tonymetger.com), [Alexander Poremba](https://www.mit.edu/~poremba/), [Luowen Qian](https://qcry.pt), [Henry Yuen](https://henryyuen.net).  
-QIP 2024 __long plenary talk__.  
+ITCS 2026, QIP 2024 __long plenary talk__.  
 \[[pdf](/pdfs/papers/uhlmann_transformation_problem.pdf), [arXiv](https://arxiv.org/abs/2306.13073)\]
 
 * Quantum Event Learning and Gentle Random Measurements. [Adam Bene Watts](https://scholar.google.com/citations?user=nXVtEQ0AAAAJ&hl=en) and John Bostanci.  

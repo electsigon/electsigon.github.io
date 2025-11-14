@@ -29,7 +29,7 @@ STOC 2024, QIP 2024 __short plenary talk__.
 \[[pdf](/pdfs/papers/efficient_quantum_parallel_repetition.pdf), [arXiv](https://arxiv.org/abs/2311.10681), [eprint](https://eprint.iacr.org/2023/1783), [eccc](https://eccc.weizmann.ac.il/report/2023/204), [slides](/pdfs/talks/Efficient_Parallel_Repetition_QIP2024.pdf)\]
 
 * Unitary Complexity and the Uhlmann Transformation Problem. John Bostanci, [Yuval Efron](https://zxrtde.github.io/), [Tony Metger](https://tonymetger.com), [Alexander Poremba](https://www.mit.edu/~poremba/), [Luowen Qian](https://qcry.pt), [Henry Yuen](https://henryyuen.net).  
-QIP 2024 __long plenary talk__.  
+ITCS 2026, QIP 2024 __long plenary talk__.  
 \[[pdf](/pdfs/papers/uhlmann_transformation_problem.pdf), [arXiv](https://arxiv.org/abs/2306.13073)\]
 
 # Teaching
