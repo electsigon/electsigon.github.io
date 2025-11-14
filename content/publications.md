@@ -8,14 +8,18 @@ draft: false
 
 ## 2026
 
+* Separating QCMA from QMA with a classical oracle. John Bostanci, [Jonas Haferkamp](https://scholar.google.com/citations?user=15q0Uq8AAAAJ&hl=de), [Chinmay Nirkhe](https://homes.cs.washington.edu/~nirkhe/), and [Mark Zhandry](https://mzhandry.github.io).  
+\[[pdf](/pdfs/papers/separating_qcma_qma.pdf), [arXiv](https://arxiv.org/abs/2511.09551), [eccc](https://eccc.weizmann.ac.il/report/2025/176/)\]
+
 * Local transformations of bipartite entanglement are rigid.  John Bostanci, [Tony Metger](https://tonymetger.com), and [Henry Yuen](https://henryyuen.net).  
+ITCS 2026, QIP 2026.  
 \[[pdf](/pdfs/papers/robust_uhlmann_rigidity.pdf), [arXiv](https://arxiv.org/abs/2509.05257)\]
 
-## 2025
-
 * Pseudorandom Unitaries in the Haar Random Oracle Model.  [Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/home), John Bostanci, [Aditya Gulati](https://adityagulati.github.io/), and [Yao-Ting Lin](https://sites.google.com/view/yao-ting-lin/home).  
-CRYPTO 2025.  
+CRYPTO 2025, QIP 2026.  
 \[[pdf](/pdfs/papers/pseudorandom_unitaries_in_the_haar_random_oracle_model.pdf), [arXiv](https://arxiv.org/abs/2509.24432)\]
+
+## 2025
 
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/).   
 STOC 2025, QIP 2025 __short plenary talk__.  

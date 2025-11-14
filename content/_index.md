@@ -13,6 +13,9 @@ Email: johnb at cs dot columbia dot edu
 
 For a full list of publications, [click here](publications).
 
+* Separating QCMA from QMA with a classical oracle. John Bostanci, [Jonas Haferkamp](https://scholar.google.com/citations?user=15q0Uq8AAAAJ&hl=de), [Chinmay Nirkhe](https://homes.cs.washington.edu/~nirkhe/), and [Mark Zhandry](https://mzhandry.github.io).  
+\[[pdf](/pdfs/papers/separating_qcma_qma.pdf), [arXiv](https://arxiv.org/abs/2511.09551), [eccc](https://eccc.weizmann.ac.il/report/2025/176/)\]
+
 * Learning the closest product state. [Ainesh Bakshi](https://www.aineshbakshi.com/), John Bostanci, [William Kretschmer](https://wkretschmer.github.io/), [Zeph Landau](https://people.eecs.berkeley.edu/~landau/index.htm), [Jerry Li](https://jerryzli.github.io/), [Allen Liu](https://aliu42.github.io/), [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/), and [Ewin Tang](https://ewintang.com/).   
 STOC 2025, QIP 2025 __short plenary talk__.  
 \[[pdf](/pdfs/papers/learning_closest_product_state.pdf), [arXiv](https://arxiv.org/abs/2411.04283), [slides](/pdfs/talks/Learning_Closest_Product_States_QIP2025.pdf)\]
@@ -36,10 +39,6 @@ In Summer 2023 I was a TA for __Topological Aspects of Error Correcting Codes__ 
 
 # Work Experience
 In the summer of 2024, I was an intern at [NTT Research](https://ntt-research.com/cis/) working with [Mark Zhandry](https://mzhandry.github.io/).
-
-I used to work for a start-up derivatives exchange called [Kalshi](https://kalshi.com/), where I helped design and build the exchange, as well as designed and built most of the connections with external parties including Bloomberg, brokers, and market makers.   
-
-I also used to work for Citadel on the Alpha Research and Development team.  Some of my projects include X-Alpha (a graph based resource manager for creating terms), and Leonov (a neural architecture that performed better than human modelers on near term alpha).  
 
 # Miscellaneous
 
