@@ -10,9 +10,11 @@ My research is broadly about understanding fully-quantum tasks, including quantu
 
 Email: johnb at cs dot columbia dot edu
 
+Link to my [Google Scholar](https://scholar.google.com/citations?user=dqN-sYkAAAAJ&hl=en)
+
 # Selected Publications
 
-For a full list of publications, [click here](publications).
+[For a full list of publications, click here](publications).
 
 * Separating QCMA from QMA with a classical oracle. John Bostanci, [Jonas Haferkamp](https://scholar.google.com/citations?user=15q0Uq8AAAAJ&hl=de), [Chinmay Nirkhe](https://homes.cs.washington.edu/~nirkhe/), and [Mark Zhandry](https://mzhandry.github.io).  
 \[[pdf](/pdfs/papers/separating_qcma_qma.pdf), [arXiv](https://arxiv.org/abs/2511.09551), [eccc](https://eccc.weizmann.ac.il/report/2025/176/)\]
@@ -36,7 +38,7 @@ ITCS 2026, QIP 2024 __long plenary talk__.
 # Teaching
 In Fall 2022 I was a TA for __Introduction to Quantum Computing__ at Columbia, taught by Henry Yuen.
 
-In Summer 2023 I was a TA for __Topological Aspects of Error Correcting Codes__ at the Park City Mathematics Institute Graduate Summer School, taught by Jeongwan Haah.  [Click here](pcmi) to see the problem sets and solutions.
+In Summer 2023 I was a TA for __Topological Aspects of Error Correcting Codes__ at the Park City Mathematics Institute Graduate Summer School, taught by Jeongwan Haah.  [Click here to see the problem sets and solutions](pcmi).
 
 # Work Experience
 In the summer of 2024, I was an intern at [NTT Research](https://ntt-research.com/cis/) working with [Mark Zhandry](https://mzhandry.github.io/).
