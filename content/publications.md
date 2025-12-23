@@ -2,6 +2,7 @@
 title: "Publications"
 date: 2022-08-15T00:47:33-04:00
 draft: false
+description: "Research publications by John Bostanci on quantum computation, quantum cryptography, pseudorandomness, and complexity theory. Papers published at STOC, QIP, ITCS, and more."
 ---
 
 # Publications

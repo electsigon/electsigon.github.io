@@ -2,6 +2,7 @@
 title: ""
 date: 2022-08-15T00:47:33-04:00
 draft: false
+description: "John Bostanci is a PhD student in theoretical computer science at Columbia University, researching quantum computation, quantum cryptography, and algorithms for learning from quantum data."
 ---
 I am a PhD student in the [Theory Group](https://theory.cs.columbia.edu/) at Columbia advised by [Henry Yuen](https://henryyuen.net/), and before that I was a graduate student at the Institute for Quantum Computing at the University of Waterloo, advised by [John Watrous](https://johnwatrous.com/).  I study theoretical computer science, with a focus on quantum computation.
 

@@ -2,6 +2,7 @@
 title: "PCMI: Topological aspects of error correcting codes"
 date: 2022-08-15T00:47:33-04:00
 draft: false
+description: "Problem sets and solutions for Topological Aspects of Error Correcting Codes from PCMI 2023 Graduate Summer School, taught by Jeongwan Haah."
 ---
 
 # PCMI: Topological aspects of error correcting codes

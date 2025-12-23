@@ -4,4 +4,5 @@ title = "John Bostanci"
 theme = "cactus"
 
 [params]
-colortheme = "white" 
+colortheme = "white"
+description = "John Bostanci is a PhD student in theoretical computer science at Columbia University, researching quantum computation, quantum cryptography, and algorithms for learning from quantum data."
