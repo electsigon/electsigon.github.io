@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Bostanci</title><link>https://www.johnbostanci.com/</link><description>Recent content on John Bostanci</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:47:33 -0400</lastBuildDate><atom:link href="https://www.johnbostanci.com/index.xml" rel="self" type="application/rss+xml"/><item><title>PCMI: Topological aspects of error correcting codes</title><link>https://www.johnbostanci.com/pcmi/</link><pubDate>Mon, 15 Aug 2022 00:47:33 -0400</pubDate><guid>https://www.johnbostanci.com/pcmi/</guid><description>PCMI: Topological aspects of error correcting codes Here is the link to the PCMI 2023 lecture notes and problem sets. The problem sets for the course were originally embedded into the lecture notes, instead of being self-contained. Here are the problems sets I distributed during the problem sessions, with select solutions.
-Problem sets and solutions Problem set 1: problem set, solutions Problem set 2: problem set, solutions Problem set 3: problem set, solutions Problem set 4: problem set, solutions</description></item><item><title>Publications</title><link>https://www.johnbostanci.com/publications/</link><pubDate>Mon, 15 Aug 2022 00:47:33 -0400</pubDate><guid>https://www.johnbostanci.com/publications/</guid><description>Publications 2026 Separating QCMA from QMA with a classical oracle. John Bostanci, Jonas Haferkamp, Chinmay Nirkhe, and Mark Zhandry.
-[pdf, arXiv, eccc]
-Local transformations of bipartite entanglement are rigid. John Bostanci, Tony Metger, and Henry Yuen.
-ITCS 2026, QIP 2026.
-[pdf, arXiv]
-Gluing Random Unitaries with Inverses and Applications to Strong Pseudorandom Unitaries. Prabhanjan Ananth, John Bostanci, Aditya Gulati, and Yao-Ting Lin.
-CRYPTO 2025 (merged), QIP 2026.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Bostanci</title><link>https://www.johnbostanci.com/</link><description>Recent content on John Bostanci</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:47:33 -0400</lastBuildDate><atom:link href="https://www.johnbostanci.com/index.xml" rel="self" type="application/rss+xml"/><item><title>PCMI: Topological aspects of error correcting codes</title><link>https://www.johnbostanci.com/pcmi/</link><pubDate>Mon, 15 Aug 2022 00:47:33 -0400</pubDate><guid>https://www.johnbostanci.com/pcmi/</guid><description>&lt;h1 id="pcmi-topological-aspects-of-error-correcting-codes">PCMI: Topological aspects of error correcting codes&lt;/h1>
+&lt;p>&lt;a href="https://www.ias.edu/pcmi/pcmi-2023-gss-lecture-notes-and-problem-sets">Here&lt;/a> is the link to the PCMI 2023 lecture notes and problem sets. The problem sets for the course were originally embedded into the lecture notes, instead of being self-contained. Here are the problems sets I distributed during the problem sessions, with &lt;em>select&lt;/em> solutions.&lt;/p>
+&lt;h1 id="problem-sets-and-solutions">Problem sets and solutions&lt;/h1>
+&lt;ol>
+&lt;li>Problem set 1: &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS1.pdf">problem set&lt;/a>, &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS1_sols.pdf">solutions&lt;/a>&lt;/li>
+&lt;li>Problem set 2: &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS2.pdf">problem set&lt;/a>, &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS2_sols.pdf">solutions&lt;/a>&lt;/li>
+&lt;li>Problem set 3: &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS3.pdf">problem set&lt;/a>, &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS3_sols.pdf">solutions&lt;/a>&lt;/li>
+&lt;li>Problem set 4: &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS4.pdf">problem set&lt;/a>, &lt;a href="https://www.johnbostanci.com/pdfs/PCMI/PCMI_PS4_sols.pdf">solutions&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Publications</title><link>https://www.johnbostanci.com/publications/</link><pubDate>Mon, 15 Aug 2022 00:47:33 -0400</pubDate><guid>https://www.johnbostanci.com/publications/</guid><description>&lt;h1 id="publications">Publications&lt;/h1>
+&lt;h2 id="2026">2026&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Separating QCMA from QMA with a classical oracle. John Bostanci, &lt;a href="https://scholar.google.com/citations?user=15q0Uq8AAAAJ&amp;amp;hl=de">Jonas Haferkamp&lt;/a>, &lt;a href="https://homes.cs.washington.edu/~nirkhe/">Chinmay Nirkhe&lt;/a>, and &lt;a href="https://mzhandry.github.io">Mark Zhandry&lt;/a>.&lt;br>
+[&lt;a href="https://www.johnbostanci.com/pdfs/papers/separating_qcma_qma.pdf">pdf&lt;/a>, &lt;a href="https://arxiv.org/abs/2511.09551">arXiv&lt;/a>, &lt;a href="https://eccc.weizmann.ac.il/report/2025/176/">eccc&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Local transformations of bipartite entanglement are rigid. John Bostanci, &lt;a href="https://tonymetger.com">Tony Metger&lt;/a>, and &lt;a href="https://henryyuen.net">Henry Yuen&lt;/a>.&lt;br>
+ITCS 2026, QIP 2026.&lt;br>
+[&lt;a href="https://www.johnbostanci.com/pdfs/papers/robust_uhlmann_rigidity.pdf">pdf&lt;/a>, &lt;a href="https://arxiv.org/abs/2509.05257">arXiv&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gluing Random Unitaries with Inverses and Applications to Strong Pseudorandom Unitaries. &lt;a href="https://sites.google.com/site/prabhanjanva/home">Prabhanjan Ananth&lt;/a>, John Bostanci, &lt;a href="https://adityagulati.github.io/">Aditya Gulati&lt;/a>, and &lt;a href="https://sites.google.com/view/yao-ting-lin/home">Yao-Ting Lin&lt;/a>.&lt;br>
+CRYPTO 2025 (merged), QIP 2026.&lt;br>
+[&lt;a href="https://www.johnbostanci.com/pdfs/papers/gluing_random_unitaries_with_inverses.pdf">pdf&lt;/a>, &lt;a href="https://arxiv.org/abs/2510.04085">arXiv&lt;/a>]&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="2025">2025&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Pseudorandom Unitaries in the Haar Random Oracle Model. &lt;a href="https://sites.google.com/site/prabhanjanva/home">Prabhanjan Ananth&lt;/a>, John Bostanci, &lt;a href="https://adityagulati.github.io/">Aditya Gulati&lt;/a>, and &lt;a href="https://sites.google.com/view/yao-ting-lin/home">Yao-Ting Lin&lt;/a>.&lt;br>
+CRYPTO 2025 (merged).&lt;br>
+[&lt;a href="https://www.johnbostanci.com/pdfs/papers/pseudorandom_unitaries_in_the_haar_random_oracle_model.pdf">pdf&lt;/a>, &lt;a href="https://arxiv.org/abs/2509.24432">arXiv&lt;/a>]&lt;/p></description></item></channel></rss>
